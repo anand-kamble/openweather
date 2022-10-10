@@ -1,1 +1,3 @@
-echo "random value"
+<script>
+    console.log("HiHiHi");
+</script>
